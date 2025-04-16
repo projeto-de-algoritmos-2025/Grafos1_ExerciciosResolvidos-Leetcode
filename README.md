@@ -12,13 +12,21 @@
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
 
+Os exercícios abordados são os seguintes
+| Código do Problema | Nome do Problema                                                                                   | Dificuldade |
+| ------------------ | -------------------------------------------------------------------------------------------------- | ----------- |
+| x               | [x](x)  | Difícil     |
+| 3108               | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/)      | Difícil     |
+| x                | [x](x)               | Médio       | 
+| 1315               | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/)               | Médio       | 
+
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+**Framework**: Os códigos rodam diretamenta no [LeetCode](https://leetcode.com/).<br>
+Criar uma conta no LeetCode, ir na página do problema e clicar no botão Run.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
