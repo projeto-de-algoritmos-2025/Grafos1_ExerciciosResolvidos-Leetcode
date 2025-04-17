@@ -61,4 +61,4 @@ Para obter o custo 0 na consulta **(1 → 2)**, podemos seguir o caminho:
 ![Problema 3108](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/MinCost.png) <br>
 *Problema 3108 aceitação*
 
-[Solução](problema3108.py)
+[Solução](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/problema3108.py)
