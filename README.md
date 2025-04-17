@@ -6,7 +6,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0108088  |  Guilherme França Dib de Oliveira Bessa |
 | 19/0094273  |  Paulo Henrique Rossi de Borba |
 
 ## Sobre 
@@ -18,7 +18,9 @@ Os exercícios abordados são os seguintes
 | x               | [x](x)  | Difícil     |
 | 3108               | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/)      | Difícil     |
 | x                | [x](x)               | Médio       | 
-| 1315               | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/)               | Médio       | 
+| 1315               | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/)               | Médio       |
+| 1192               | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/?envType=problem-list-v2&envId=graph)               | Difícil      | 
+
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
