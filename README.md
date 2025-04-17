@@ -22,7 +22,8 @@ Os exercícios abordados são os seguintes
 
 
 ## Screenshots
-![Problema 3108](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/MinCost.png)
+![Problema 3108](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/MinCost.png) <br>
+*Problema 3108 aceitação* <br>
 
 ## Instalação 
 **Linguagem**: Python<br>

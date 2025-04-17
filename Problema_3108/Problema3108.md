@@ -13,7 +13,6 @@ Você também recebe um array 2D **query**, onde **query[i] = [si, ti]**. Para c
 Retorne o array **answer**, onde **answer[i]** representa o **menor** custo do passeio para a **i-ésima** consulta.
 
 ## Exemplo 1:
-
 **Entrada:  
 n = 5; <br>
 edges = [[0,1,7],[1,3,7],[1,2,1]]; <br>
@@ -22,6 +21,8 @@ query = [[0,3],[3,4]]**
 **Saída: [1,-1]**
 
 #### Explicação:
+![Grafo exemplo 1](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/explicacao1.png)<br>
+*Grafo exemplo 1* <br>
 Para obter o custo **1** na primeira consulta **(0 → 3)**, podemos seguir o caminho:
 **0 → 1** (peso 7), **1 → 2** (peso 1), **2 → 1** (peso 1), **1 → 3** (peso 7).
 O cálculo do custo é: **7 & 1 & 1 & 7 = 1**.
@@ -31,7 +32,6 @@ Na segunda consulta (**3 → 4**), não existe nenhum passeio possível entre os
 ## Exemplo 2:
 
 **Entrada: 
-![Grafo exemplo 1](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/explicacao1.png)
 n = 3; <br>
 edges = [[0,2,7],[0,1,15],[1,2,6],[1,2,1]]; <br>
 query = [[1,2]]**
@@ -39,7 +39,8 @@ query = [[1,2]]**
 **Saída: [0]**
 
 #### Explicação: 
-![Grafo exemplo 2](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/explicacao2.png)
+![Grafo exemplo 2](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/explicacao2.png)<br>
+*Grafo exemplo 2* <br>
 Para obter o custo 0 na consulta **(1 → 2)**, podemos seguir o caminho:
 **1 → 2** (peso 1), **2 → 1** (peso 6), **1 → 2** (peso 1).
 
