@@ -10,9 +10,9 @@
 | 19/0094273  |  [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto tem como objetivo aprofundar o conhecimento em algoritmos para grafos através da resolução de problemas práticos. Vamos trabalhar com 4 questões do LeetCode, combinando desafios de níveis médio e difícil para consolidar diferentes técnicas de resolução.
 
-Os exercícios abordados são os seguintes
+Os exercícios abordados são os seguintes:
 | Código do Problema | Nome do Problema                                                                                   | Dificuldade |   Responsável | Solução
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
 | 3108               | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/)      | Difícil     | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](Problema3108.md) |
@@ -24,14 +24,22 @@ Os exercícios abordados são os seguintes
 ## Screenshots
 ![Problema 3108](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/MinCost.png) <br>
 *Problema 3108 aceitação* <br>
+![Problema 1315]() <br>
+*Problema 1315 aceitação* <br>
 
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: Os códigos rodam diretamenta no [LeetCode](https://leetcode.com/).<br>
-Criar uma conta no LeetCode, ir na página do problema e clicar no botão Run.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+### Acesse o LeetCode
+- Crie uma conta gratuita no LeetCode (caso ainda não tenha).
+- Navegue até a página dos problemas específicos citados acima.
+
+### Execute a Solução
+- No editor de código do LeetCode:
+- Copie e cole a solução fornecida (em Python).
+- Clique no botão Run para testar com os casos de exemplo.
+- Verifique se a saída corresponde ao esperado ou se aparece **Accepted** na secção **Test Result**.
