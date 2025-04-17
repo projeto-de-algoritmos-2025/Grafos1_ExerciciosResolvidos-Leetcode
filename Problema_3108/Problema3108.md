@@ -31,7 +31,7 @@ Na segunda consulta (**3 → 4**), não existe nenhum passeio possível entre os
 ## Exemplo 2:
 
 **Entrada: 
-![Grafo 1](Problema_3108\img\explicacao1.png) 
+![Grafo exemplo 1](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/explicacao1.png)
 n = 3; <br>
 edges = [[0,2,7],[0,1,15],[1,2,6],[1,2,1]]; <br>
 query = [[1,2]]**
@@ -39,7 +39,7 @@ query = [[1,2]]**
 **Saída: [0]**
 
 #### Explicação: 
-![Grafo 2](Problema_3108\img\explicacao2.png)
+![Grafo exemplo 2](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/explicacao2.png)
 Para obter o custo 0 na consulta **(1 → 2)**, podemos seguir o caminho:
 **1 → 2** (peso 1), **2 → 1** (peso 6), **1 → 2** (peso 1).
 
@@ -57,7 +57,6 @@ Para obter o custo 0 na consulta **(1 → 2)**, podemos seguir o caminho:
 
 
 # Solução
-![3108](MinCost.png)
-Solução da questão 785
+![Problema 3108](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/MinCost.png)
 
 [Solução](problema3108.py)

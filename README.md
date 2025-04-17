@@ -22,7 +22,7 @@ Os exercícios abordados são os seguintes
 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Problema 3108](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/MinCost.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
