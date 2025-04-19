@@ -23,13 +23,13 @@ Os exercícios abordados são os seguintes:
 
 ## Screenshots
 ![Problema 3108](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_3108/img/MinCost.png) <br>
-*Problema 3108 aceitação* <br>
-![Problema 1192]([https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_1315/img/SumNodes.png](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_1192/problema.1192.png)) <br>
-*Problema 1192 aceitação* <br>
+*Problema 3108 aceitação* <br> <br>
+![Problema 1192](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/f6688519a5525ef8765256f02917dc555aa5ca2e/Problema_1192/problema.1192.png) <br>
+*Problema 1192 aceitação* <br><br>
 ![Problema 1315](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_1315/img/SumNodes.png) <br>
-*Problema 1315 aceitação* <br>
-![Problema 1311]([https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_1315/img/SumNodes.png](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/main/Problema_1311/problema131.png)) <br>
-*Problema 1311 aceitação* <br>
+*Problema 1315 aceitação* <br> <br>
+![Problema 1311](https://github.com/projeto-de-algoritmos-2025/Grafos1_ExerciciosResolvidos-Leetcode/blob/a57aab53d4fce8ca20cea4977920ca3a4c0c3eaa/Problema_1311/problema131.png) <br>
+*Problema 1311 aceitação* <br> <br>
 
 ## Instalação 
 **Linguagem**: Python<br>
