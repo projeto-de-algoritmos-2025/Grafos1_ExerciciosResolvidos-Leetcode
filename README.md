@@ -45,4 +45,4 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 - Verifique se a saída corresponde ao esperado ou se aparece **Accepted** na secção **Test Result**.
 
 ### Link da apresentação
-![Vídeo](https://drive.google.com/drive/folders/1syY6I0K14MssRBsubN2-Sp2HQPiFfCFn?usp=sharing) 
+[Vídeo](https://drive.google.com/drive/folders/1syY6I0K14MssRBsubN2-Sp2HQPiFfCFn?usp=sharing) 
